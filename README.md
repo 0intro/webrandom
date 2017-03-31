@@ -1,4 +1,4 @@
-[![Build Status](https://drone.io/github.com/0intro/webrandom/status.png)](https://drone.io/github.com/0intro/webrandom/latest)
+[![Build Status](https://travis-ci.org/0intro/webrandom.svg?branch=master)](https://travis-ci.org/0intro/webrandom)
 
 Webrandom
 =========
