@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/0intro/webrandom.svg?branch=master)](https://travis-ci.org/0intro/webrandom)
+[![Build Status](https://github.com/0intro/webrandom/workflows/Go/badge.svg)](https://github.com/0intro/webrandom/actions/workflows/go.yml)
 
 Webrandom
 =========
